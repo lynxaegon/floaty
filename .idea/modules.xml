@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/android-common/android-common.iml" filepath="$PROJECT_DIR$/modules/android-common/android-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mready-floating.iml" filepath="$PROJECT_DIR$/mready-floating.iml" />
+    </modules>
+  </component>
+</project>
+
